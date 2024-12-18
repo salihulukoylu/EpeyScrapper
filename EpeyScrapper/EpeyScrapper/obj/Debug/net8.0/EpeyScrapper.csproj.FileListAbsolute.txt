@@ -1,0 +1,17 @@
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\bin\Debug\net8.0\EpeyScrapper.exe
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\bin\Debug\net8.0\EpeyScrapper.deps.json
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\bin\Debug\net8.0\EpeyScrapper.runtimeconfig.json
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\bin\Debug\net8.0\EpeyScrapper.dll
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\bin\Debug\net8.0\EpeyScrapper.pdb
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.csproj.AssemblyReference.cache
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.AssemblyInfoInputs.cache
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.AssemblyInfo.cs
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.csproj.CoreCompileInputs.cache
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScra.D5532AEE.Up2Date
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.dll
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\refint\EpeyScrapper.dll
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.pdb
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.genruntimeconfig.cache
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\ref\EpeyScrapper.dll

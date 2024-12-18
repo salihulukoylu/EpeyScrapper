@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpeyScrapper", "EpeyScrapper\EpeyScrapper.csproj", "{CCBDE2A9-D473-485E-84E2-F44D2EB5B567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBDE2A9-D473-485E-84E2-F44D2EB5B567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBDE2A9-D473-485E-84E2-F44D2EB5B567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBDE2A9-D473-485E-84E2-F44D2EB5B567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBDE2A9-D473-485E-84E2-F44D2EB5B567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

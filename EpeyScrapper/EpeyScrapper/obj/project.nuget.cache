@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+tQd9AmzHa0=",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EpeyScrapper\\EpeyScrapper\\EpeyScrapper\\EpeyScrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yazilim1\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
+  "logs": []
+}
