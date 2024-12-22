@@ -15,3 +15,4 @@ D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\refint\EpeyScra
 D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.pdb
 D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.genruntimeconfig.cache
 D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\ref\EpeyScrapper.dll
+D:\repos\EpeyScrapper\EpeyScrapper\EpeyScrapper\obj\Debug\net8.0\EpeyScrapper.sourcelink.json
